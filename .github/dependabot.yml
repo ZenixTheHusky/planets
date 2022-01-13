@@ -1,0 +1,11 @@
+# Basic set up for three package managers
+
+version: 2
+updates:
+
+  # Maintain dependencies for maven
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:00"
