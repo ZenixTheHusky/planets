@@ -5,7 +5,7 @@
 
     <packaging>pom</packaging>
 
-    <log4j.version>2.16.0</log4j.version>
+    <log4j.version>2.20.0</log4j.version>
 
     <dependencies>
         <dependency>
